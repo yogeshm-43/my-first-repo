@@ -1,0 +1,8 @@
+git init
+touch task
+vi task
+codes.....
+git add .
+git commit -m "commited new codes"
+git remote add origin <github-repo-url>
+git push -u origin master
